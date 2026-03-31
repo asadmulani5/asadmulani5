@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Asad+Akbar+Mulani;Full-Stack+%26+ML+Developer;MS+CS+%40+Northeastern+University;Building+Scalable+%26+Intelligent+Systems;Open+Source+Author+%7C+PyPI+Publisher;Seeking+2026+Internship+Opportunities!" alt="Typing SVG" />
+# 👋 Hi, I'm Asad Akbar Mulani
+
+### 🎓 MS Computer Science @ Northeastern University, San Jose
+### 💼 Full-Stack & ML Developer | Open Source Author on PyPI
+### 📍 San Jose, California | Seeking SWE / ML Internship — Summer & Fall 2026
 
 <br/>
 
@@ -31,7 +35,7 @@ Superpower : I bridge the gap between data, ML, and production-grade systems
 
 ---
 
-## 🚀 What I Build
+## Skills 
 
 <table>
 <tr>
@@ -230,24 +234,6 @@ Full-stack forecasting app on **40K+ pharmacy records** achieving **12% higher a
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=asadmulani5&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadmulani5&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asadmulani5&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=asadmulani5&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
 
 ---
 
