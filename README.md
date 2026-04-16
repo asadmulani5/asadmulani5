@@ -22,20 +22,20 @@
 ## 🧠 About Me
 
 ```yaml
-Name       : Asad Akbar Mulani
-Location   : San Jose, California 🇺🇸
-Education  : MS Computer Science @ Northeastern University
-Focus      : Full-Stack Engineering · ML Systems · Cloud Architecture
-Open_source: Smart Data Profiler (PyPI) 📦
-Seeking    : SWE / Full-Stack / ML Engineer Internship — Summer & Fall 2026
-Superpower : I bridge the gap between data, ML, and production-grade systems
+name       : Asad Akbar Mulani
+location   : San Jose, California 🇺🇸
+education  : MS Computer Science @ Northeastern University
+focus      : Full-Stack Engineering · ML Systems · Cloud Architecture
+open_source: Smart Data Profiler (PyPI) 📦
+seeking    : SWE / Full-Stack / ML Engineer Internship — Summer & Fall 2026
+superpower : I bridge the gap between data, ML, and production-grade systems
 ```
 
 > 💡 *"I don't just build features — I understand how systems scale, break, and recover in the real world."*
 
 ---
 
-## Skills 
+## 🚀 What I Build
 
 <table>
 <tr>
@@ -155,6 +155,20 @@ Real-time face recognition pipeline using FaceNet + cosine similarity achieving 
 Full-stack forecasting app on **40K+ pharmacy records** achieving **12% higher accuracy** over baseline models. Integrated Python ML model with web interface.
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛡️ SentinelQA *(Hackathon — Solo Build)*
+**React · Vite · FastAPI · Groq API · LLaMA 3.3 70B · BeautifulSoup · Railway · Vercel**
+
+Autonomous Web QA Agent — crawls any public URL, analyses it like a senior QA engineer, and returns a structured bug report with severity ratings, fix suggestions, and business impact assessment in seconds.
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-sentinelqa.vercel.app-6C63FF?style=flat-square&logo=vercel&logoColor=white)](https://sentinelqa.vercel.app)
+[![GitHub](https://img.shields.io/badge/Source-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/asadmulani5/sentinelqa)
+
+</td>
+<td width="50%"></td>
 </tr>
 </table>
 
