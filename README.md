@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Asad Akbar Mulani
 
 ### 🎓 MS Computer Science @ Northeastern University, San Jose
-### 💼 Full-Stack & ML Developer | Open Source Author on PyPI
+### 💼 Software & ML Developer | Open Source Author on PyPI
 ### 📍 San Jose, California | Seeking SWE / ML Internship — Summer & Fall 2026
 
 <br/>
