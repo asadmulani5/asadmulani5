@@ -4,7 +4,7 @@
 
 ### 🎓 MS Computer Science @ Northeastern University, San Jose
 ### 💼 Software & ML Developer | Open Source Author on PyPI
-### 📍 San Jose, California | Seeking SWE / ML Internship — Summer & Fall 2026
+### 📍 San Jose, California | Seeking SWE / ML FullTime Roles — Grad Dec 2026
 
 <br/>
 
