@@ -26,7 +26,7 @@ name       : Asad Akbar Mulani
 location   : San Jose, California 🇺🇸
 education  : MS Computer Science @ Northeastern University
 open_source: Smart Data Profiler (PyPI) 📦
-seeking    : SWE / Full-Stack / ML Engineer Internship — Summer & Fall 2026
+seeking    : SWE / Full-Stack / ML Engineer FullTime Roles — Grad Dec 2026
 superpower : I bridge the gap between data, ML, and production-grade systems
 ```
 
